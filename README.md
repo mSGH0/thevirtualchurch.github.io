@@ -1,7 +1,5 @@
 # thevirtualchurch.github.io
-A Virtual Church - Designer 
-I Am Designer
-Nice Incentives For visit
-Plesse listen to the virtual FM
-
-
+### I Virtual Church - Designer 
+###  I Am A Designer
+### Please listen to the virtual FM for more info. 
+### Nice Incentives for visitors.
